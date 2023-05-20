@@ -1,0 +1,33 @@
+
+[
+{
+"id":"1",
+"image":"https://res.cloudinary.com/djtqjivbt/image/upload/v1661171574/chicken_k6hspr.jpg",
+"name":"Chicken Manjoori",
+"price":"$15",
+"title":"Dish relished by all age groups as a starter dish at parties."
+},
+{
+    "id":"2",
+   "image":"https://res.cloudinary.com/djtqjivbt/image/upload/v1661171641/hotdog_qxcxe2.jpg",
+    "name":"Hotdog",
+    "price":"$10",
+    "title":"Grilled sausage served in the slit of a partially sliced bun."
+
+},
+{
+    "id":"3",
+    "image":"https://res.cloudinary.com/djtqjivbt/image/upload/v1661171633/fresh_rop0a6.jpg",
+    "name":"Fresh Salmon",
+    "price":"$10",
+    "title":"Beat the health blues with our Super Immune Blue Juice Recipe." 
+},
+{
+    "id":"4",
+    "image":"https://res.cloudinary.com/djtqjivbt/image/upload/v1661171900/burger_p7j38n.jpg",
+    "name":"Veg Burger",
+    "price":"$10",
+    "title" :"Burgers may be made from ingredients like beans."
+}
+
+]
